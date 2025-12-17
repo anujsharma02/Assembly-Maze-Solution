@@ -11,3 +11,6 @@ This project demonstrates communication between a Core module
 
 ## Unity Version
 6.2
+
+## Scene Name
+- TestScene
